@@ -73,9 +73,8 @@ def inte(state, t, reaction_dict):
             globals()['{}'.format(node_ID[i] + 'd')] = (TF*Ymax[i]-globals()['{}'.format(node_ID[i])])/tau[i]
     return [globals()['{}'.format(k+ 'd')] for k in node_ID]
     
-reactions_raw = pd.read_excel('/home/shulincao/Desktop/projects/demo/MTv29-philip-20170921-for-network.xlsx', sheet_name = 1, skiprows = 1, header = 0)
-species_raw = pd.read_excel('/home/shulincao/Desktop/projects/demo/MTv29-philip-20170921-for-network.xlsx', sheet_name = 0, skiprows = 1, header = 0)
-pmid = reactions_raw['PMID'].tolist()
+reactions_raw = pd.read_excel('MTv29-philip-20170921-for-network.xlsx', sheet_name = 1, skiprows = 1, header = 0)
+species_raw = pd.read_excel('MTv29-philip-20170921-for-network.xlsx', sheet_name = 0, skiprows = 1, header = 0)
 
 species = species_raw[['ID', 'Yinit', 'Ymax', 'tau']]
 node_ID = species['ID'].tolist()
