@@ -1,0 +1,6 @@
+1. Please ensure that your local machine has installed anaconda and pip(pip is pre-installed in unlx-like systems)
+
+https://docs.anaconda.com/anaconda/install/
+
+2. Please install the following packages in your local environment.
+
