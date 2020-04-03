@@ -2,6 +2,12 @@
 
 https://docs.anaconda.com/anaconda/install/
 
+Our implementation is based on Python3. When you install anaconda, python is automatically installed on version 3.7.4.
+
 2. Please install the following packages in your local environment.
 pip install chaospy
 pip install uncertainpy
+
+3. Please refer to this website if you are not familiar with setting up environment.
+
+https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/
