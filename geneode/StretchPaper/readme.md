@@ -1,2 +1,2 @@
-## This repository contains supplemental figures, data and model code in a JuPyter Notebook that accompanies research article
+## This repository contains supplemental figures, data and model code (JuPyter notebook) that accompanies research article
 Shulin Cao, Kyle S. Buchholz, Philip Tan, Jennifer C. Stowe, Ariel Wang, Annabelle Fowler, Katherine R. Knaus, Ali Khalilimeybodi, Alexander C. Zambon, Jeffrey H. Omens, Jeffrey J. Saucerman, Andrew D. McCulloch (2024) Differential Sensitivity to Longitudinal and Transverse Stretch Mediates Transcriptional Responses in Mouse Neonatal Ventricular Myocytes. Am J Physiol (Heart Circ Physiol)
