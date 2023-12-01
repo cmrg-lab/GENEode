@@ -1,8 +1,7 @@
 # GENEode
-This folder is used for the implementation of GENE ODE systems by Shulin Cao. This Repo contains the supplemental data for the following paper:
-
-
-There are two papers ready in publication based on this implementation! Stay tuned!
+This folder is used for the implementation of GENE ODE systems by Shulin Cao.
+## This repository contains supplemental figures, data and model code (JuPyter notebook) that accompanies research article
+Shulin Cao, Kyle S. Buchholz, Philip Tan, Jennifer C. Stowe, Ariel Wang, Annabelle Fowler, Katherine R. Knaus, Ali Khalilimeybodi, Alexander C. Zambon, Jeffrey H. Omens, Jeffrey J. Saucerman, Andrew D. McCulloch (2024) Differential Sensitivity to Longitudinal and Transverse Stretch Mediates Transcriptional Responses in Mouse Neonatal Ventricular Myocytes. Am J Physiol (Heart Circ Physiol)
 
 
 -------------------------------------------------------------------------------------------
